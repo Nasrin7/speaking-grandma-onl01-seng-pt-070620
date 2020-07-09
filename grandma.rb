@@ -24,6 +24,5 @@ def speak_to_grandma (phrase)
   else
     "NO, NOT SINCE 1938!"
   end
-   puts speak_to_grandma("Hello")
   
 end
